@@ -51,5 +51,5 @@ $$
 x = 2^4 " y
 $$
 
-
-
+![foto_1](steph.webp)
+![Gif_1](Familia feliz.gif)
